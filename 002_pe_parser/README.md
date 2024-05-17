@@ -13,3 +13,7 @@
 ```
 pe_parser.exe [path/to/pefile]
 ```
+
+## 参考
+
+https://github.com/PacktPublishing/Windows-APT-Warfare
