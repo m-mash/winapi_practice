@@ -9,7 +9,9 @@
 ## 使い方
 
 ```
-$ pe_patcher.exe  xxx.exe
+.\pe_patcher.exe  .\xxx.exe
+
+.\xxx_infected.exe
 ```
 
 ## 参考
