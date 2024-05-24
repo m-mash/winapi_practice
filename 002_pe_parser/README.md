@@ -11,7 +11,7 @@
 ## 使い方
 
 ```
-pe_parser.exe [path/to/pefile]
+.\pe_parser.exe .\xxx.exe
 ```
 
 ## 参考
